@@ -23,7 +23,7 @@ Primeros diseños hechos a mano para definir la estructura de la interfaz.
 
 ### Versión móvil
 
-![Boceto móvil](/FOTO3.png)
+![Boceto móvil](/cell.png)
 
 Incluye: nombre del restaurante, descripción, filtros de categoría y tarjetas de comida con imagen, nombre, descripción y precio.
 
